@@ -1,0 +1,11 @@
+.incorrect {
+    color: #a94442 !important;
+    background-color: #f2dede !important;
+    border: 2px solid #f2dede !important;
+}
+
+.correct {
+    color: #3c763d !important;
+    background-color: #dff0d8 !important;
+    border: 2px solid #d6e9c6 !important;
+}
